@@ -507,7 +507,7 @@ This project is open-source and available under the MIT License. Feel free to mo
 
 For issues, suggestions, or questions:
 - Create an issue on GitHub
-- Contact via email or social media (details to be added)
+- Contact via email or social media 
 
 ---
 
