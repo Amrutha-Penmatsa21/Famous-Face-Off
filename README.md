@@ -130,11 +130,7 @@ Famous-Face-Off/
 │       │   └── ... (90+ more celebrities)
 │       │
 │       ├── embeddings.pkl          # Pre-computed face encodings
-│       ├── input_images/           # Test input directory
 │       └── test_images/            # Test dataset
-│
-├── haarcascades/
-│   └── haarcascade_frontalface_default.xml  # Cascade classifier for face detection
 │
 ├── requirements.txt                 # Main project dependencies
 ├── README.md                        # This file
