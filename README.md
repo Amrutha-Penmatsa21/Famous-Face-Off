@@ -202,7 +202,7 @@ The application requires a dataset of 110+ Indian celebrity images (5000+ total 
 
 **To access the celebrity dataset, please contact us:**
 
-📧 **Email:** [Your Email Address]  
+📧 **Email:** [Check this file ]  
 📱 **GitHub:** Create an [Issue](https://github.com/yourusername/Famous-Face-Off/issues) with the subject "Dataset Request"
 
 ### After Receiving the Dataset
